@@ -1,5 +1,5 @@
-### Hi there, I'm Refat Baderkhan
-#### full-stack web developer
+### ** Hi there, I'm Refat Baderkhan **
+#### ** full-stack web developer **
 As a curious and ambitious mind that doesn't shy away from new challenges. In 2023, I've decided to take the demanding yet exciting path of becoming a full-stack web developer, a path that I follow with passion and enthusiasm.
 
 **Skills:**  
