@@ -2,6 +2,10 @@
 #### full-stack web developer
 As a curious and ambitious mind that doesn't shy away from new challenges. In 2023, I've decided to take the demanding yet exciting path of becoming a full-stack web developer, a path that I follow with passion and enthusiasm.
 
+**Current Stack**:  
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+
+
 **Skills:**  
 **Programming (and Scripting) Languages //** Python, JavaScript, PHP, and SQL.  
 **Database Management Systems //** MySQL, and MongoDB.  
