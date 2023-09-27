@@ -1,7 +1,11 @@
 <h1 align="center">Hi , I'm Refat Baderkhan</h1>
 <h3 align="center">A Full-Stack Web Developer based in Beirut, Lebanon</h3>
 <p align="center">As a curious and ambitious mind that doesn't shy away from new challenges. In 2023, I've decided to take the demanding yet exciting path of becoming a full-stack web developer, a path that I follow with passion and enthusiasm.<p>  
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 
       
